@@ -1,0 +1,8 @@
+com\ieseljust\ModelER\Specializations.class
+com\ieseljust\proyectoodb\ProyectoODB.class
+com\ieseljust\proyectoodb\ConnectionODB.class
+com\ieseljust\ModelER\Animals.class
+com\ieseljust\ModelER\Vets.class
+com\ieseljust\ModelER\Visits.class
+com\ieseljust\ModelER\Owners.class
+com\ieseljust\ModelER\Species.class
